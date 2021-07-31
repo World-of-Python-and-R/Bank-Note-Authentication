@@ -5,9 +5,7 @@ Banknote forgery is an issue faced by many banking institutions around the globe
 # dataset info: <br/>
 
 Source:  <br/>
-UCI Machine Learning Repository; Volker Lohweg (University of Applied Sciences, Ostwestfalen-Lippe, volker.lohweg '@' hs-owl.de) <br/>
-
-Link: https://archive.ics.uci.edu/ml/datasets/banknote+authentication <br/>
+[UCI Machine Learning Repository; Volker Lohweg (University of Applied Sciences, Ostwestfalen-Lippe, volker.lohweg '@' hs-owl.de)](https://archive.ics.uci.edu/ml/datasets/banknote+authentication) <br/>
 
 # Feature Information:  <br/>
 
