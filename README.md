@@ -35,5 +35,4 @@ Final Year Undergraduate, <br/>
 Mathematics Department IIT Bombay <br/>
 [LinkedIn](https://www.linkedin.com/in/ayushmaan-dev-verma-654b57170) <br/>
 
-
-[visit the following website to use the model:](https://ml-bank-note-authentication.herokuapp.com/)
+[Use the Model!](https://ml-bank-note-authentication.herokuapp.com/)
