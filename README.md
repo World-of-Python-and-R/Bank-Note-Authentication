@@ -36,4 +36,4 @@ Mathematics Department IIT Bombay <br/>
 [LinkedIn](https://www.linkedin.com/in/ayushmaan-dev-verma-654b57170) <br/>
 
 
-visit the following website to use the model: [web](https://ml-bank-note-authentication.herokuapp.com/)
+[visit the following website to use the model:](https://ml-bank-note-authentication.herokuapp.com/)
